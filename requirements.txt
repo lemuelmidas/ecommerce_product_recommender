@@ -3,7 +3,7 @@ polars
 pandas
 numpy
 sentence-transformers
-pinecone-client
+pinecone
 python-dotenv
 torch
 scikit-learn
