@@ -1,0 +1,9 @@
+streamlit
+polars
+pandas
+numpy
+sentence-transformers
+pinecone-client
+python-dotenv
+torch
+scikit-learn
